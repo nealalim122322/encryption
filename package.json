@@ -1,0 +1,25 @@
+{
+  "name": "@nealalim122322/encryption",
+  "version": "1.0.0",
+  "description": "Data encryption in Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealalim122322/encryption.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "encryption nextjs",
+    "decryption nextjs"
+  ],
+  "author": "Neal Alim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nealalim122322/encryption/issues"
+  },
+  "homepage": "https://github.com/nealalim122322/encryption#readme"
+}
